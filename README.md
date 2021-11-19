@@ -1,6 +1,8 @@
 # tests
 Payslip Python Challenge 
 
+I'm using unittest for the testing.
+
 I did not figure out the idea behind the 3rd test: The GTN file header structure has changed e.g. there are two header rows instead of one. 
 Do I need to have any logic to remember how many rows the header was in the previous version of the Excel spreadsheet?
 
